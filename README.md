@@ -1,8 +1,3 @@
-# HR-ANALYTICS-DASHBOARD
-This Power BI project provides an interactive HR Analytics Dashboard that helps organizations gain insights into workforce data. It includes key HR metrics such as employee attrition, headcount, diversity, performance, and engagement trends.
-Employee Demographics: Breakdown of employees by department, gender, age, and tenure.
-Attrition Analysis: Insights into turnover rates and reasons for employee exits.
-Performance Metrics: Evaluation of employee performance and productivity trends.
-Engagement & Satisfaction: Visualizations of employee engagement survey results.
-Hiring & Recruitment Trends: Analysis of hiring patterns and new joiners.
-Salary & Compensation Insights: Comparison of salaries across departments and roles.
+The HR Analytics Dashboard is a Power BI project designed to help organizations gain valuable insights into their workforce data. This interactive dashboard enables HR professionals, managers, and business leaders to track key HR metrics, monitor employee trends, and make data-driven decisions to optimize workforce management.
+
+In today’s dynamic business environment, managing human resources effectively is crucial for an organization's success. This project aims to address key HR challenges such as employee attrition, performance evaluation, workforce diversity, and engagement trends through a data-driven approach. The dashboard provides a comprehensive view of employee-related data, making it easier to identify patterns, address issues proactively, and drive HR strategies effectively.![Screenshot 2025-02-21 110101](https://github.com/user-attachments/assets/c65c74f4-e23b-4912-978c-965b00754f07)
